@@ -1,0 +1,16 @@
+name: cupertino_toolbar
+description: Flutter Cupertino Widget designed to replicate iOS UIToolbar component
+version: 0.0.1
+author: Christian Mengler <christian@cmengler.com>
+homepage: https://github.com/cmengler/cupertino_toolbar
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
