@@ -1,5 +1,5 @@
 # Cupertino Toolbar
-[![DartLang](https://img.shields.io/badge/pub-0.0.1-orange.svg)](https://pub.dartlang.org/packages/cupertino_toolbar) [![GPL-3.0 license](https://img.shields.io/badge/license-GPL--3-blue.svg)](https://github.com/cmengler/cupertino_toolbar/blob/master/LICENSE)
+[![DartLang](https://img.shields.io/badge/pub-1.0.0-orange.svg)](https://pub.dartlang.org/packages/cupertino_toolbar) [![GPL-3.0 license](https://img.shields.io/badge/license-GPL--3-blue.svg)](https://github.com/cmengler/cupertino_toolbar/blob/master/LICENSE)
 
 Flutter Cupertino Widget designed to replicate iOS UIToolbar component.
 
